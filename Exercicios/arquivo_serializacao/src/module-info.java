@@ -1,0 +1,2 @@
+module arquivo_serializacao {
+}

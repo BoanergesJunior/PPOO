@@ -1,0 +1,2 @@
+module padrao_strategy {
+}

@@ -1,0 +1,2 @@
+module programacao_generica {
+}
