@@ -45,9 +45,6 @@ Exercícios para prática orientada a objetos em Java (Design de classes, padrõ
 │   ├── classe_abstrata_interface
 │   │   └── src
 │   │       └── classe_abstrata_interface
-│   ├── eng_software_git
-│   │   └── src
-│   │       └── eng_software_git
 │   ├── exercicio_1
 │   │   └── src
 │   │       └── exercicio_1
@@ -68,14 +65,9 @@ Exercícios para prática orientada a objetos em Java (Design de classes, padrõ
 │   ├── Pratica_conceitos_basicos
 │   │   └── src
 │   │       └── pratica
-│   ├── programacao_generica
-│   │   └── src
-│   │       └── programacao_generica
-│   ├── Testes
-│   │   └── src
-│   │       └── Teste
-│   └── Trabalho_final
-│       └── Raposas_e_Coelhos
+│   └── programacao_generica
+│       └── src
+│           └── programacao_generica
 └── Simulador
     ├── Documentacao
     │   └── JavaDoc
