@@ -12,7 +12,7 @@ $ git clone <https://github.com/BoanergesJunior/PPOO.git>
 ```
 ```bash
 # Acesse a pasta do projeto no terminal
-$ cd Simulador
+$ cd Simulador/Raposas_e_Coelhos_Etapa_Final
 
 #Compile o projeto
 $javac Principal.java
